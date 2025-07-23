@@ -45,4 +45,3 @@ desafio01/
 
 ---
 
-Sinta-se à vontade para modificar, estudar e praticar com este projeto! 
